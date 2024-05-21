@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Hongwei REN
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,17 +25,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+ - course: PhD in MICS
+   institution: HKUST(GZ)
+   year: 2025
+ - course: MEng in MICS
+   institution: SUSTECH
+   year: 2022
+ - course: BSc in ECE
+   institution: SHU
+   year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
